@@ -109,20 +109,16 @@ The backend follows a **Clean Architecture** approach with NestJS, organized by 
 
 ![Backend Folder Structure](Images/back-end-folders-organization.png)
 
-```
-src/
-├── constants/
-├── modules/        # Domain modules (enterprises, projects, auth, etc.)
-├── types/
-├── utils/
-├── app.module.ts
-└── main.ts
-```
+## Frontend Structure
+
+The frontend follows a **DDD** approach with NextJS, organized by features:
+
+![Backend Folder Structure](Images/front-end-folders-organization.png)
 
 ---
+## 📬 Contact  
 
-## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opedro-monteiro/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.oliveira@monteirodev.com)  
 
-Pedro Monteiro
-📧 [pedro.oliveira@monteirodev.com](mailto:pedro.oliveira@monteirodev.com)
-🔗 [linkedin.com/in/opedro-monteiro](https://linkedin.com/in/opedro-monteiro)
+---
